@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import QueryInput from "./components/QueryInput";
 import AnswerCard from "./components/AnswerCard";
-import PDFModal from "./components/PDFModal";
+import PDFModal from "./components/PdfModal";
 
 function App() {
   const [query, setQuery] = useState("");
