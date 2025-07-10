@@ -22,7 +22,7 @@ A minimal React.js frontend that simulates a legal AI assistant like Lexi. Users
 ## 🛠️ How to Run
 
 ```bash
-git clone https://github.com/your-username/lexisg-frontend-intern-test
+git clone https://github.com/abhishekbisht0203/lexisg-frontend-intern-test
 cd lexisg-frontend-intern-test
 npm install
 npm run dev
